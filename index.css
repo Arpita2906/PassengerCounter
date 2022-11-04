@@ -1,0 +1,11 @@
+body{
+    background-image: url("bg1.jpg");
+    height: 100vh;
+    width: 100vw;
+}
+#firstcontainer{
+    border: 5px solid black;
+    width: 500px;
+    margin: 150px auto;
+    background-color:peachpuff;
+}
